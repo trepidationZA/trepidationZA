@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trepidationZA
+- 👀 I’m interested in the development of public spaces, technology, and the development of South Africa.
+- 🌱 I’m currently learning how to work with data and code.
+- 💞️ I’m looking to collaborate on anything that helps us get a sense of where the country is and how we can live better.
+- 📫 How to reach me open an issue and ask a question via a project.
